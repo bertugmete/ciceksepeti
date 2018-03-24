@@ -1,0 +1,6 @@
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\bin\Debug\CicekSepetiBertugMETE.exe.config
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\bin\Debug\CicekSepetiBertugMETE.exe
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\bin\Debug\CicekSepetiBertugMETE.pdb
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\obj\Debug\CicekSepetiBertugMETE.csprojResolveAssemblyReference.cache
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\obj\Debug\CicekSepetiBertugMETE.exe
+c:\users\bertug\documents\visual studio 2015\Projects\CicekSepetiBertugMETE\CicekSepetiBertugMETE\obj\Debug\CicekSepetiBertugMETE.pdb
